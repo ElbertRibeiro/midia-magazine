@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/midia-magazine/static/css/main.5f361e03.chunk.css",
+    "main.js": "/midia-magazine/static/js/main.23e9eb85.chunk.js",
+    "main.js.map": "/midia-magazine/static/js/main.23e9eb85.chunk.js.map",
+    "runtime-main.js": "/midia-magazine/static/js/runtime-main.5e300bcc.js",
+    "runtime-main.js.map": "/midia-magazine/static/js/runtime-main.5e300bcc.js.map",
+    "static/js/2.70a8117f.chunk.js": "/midia-magazine/static/js/2.70a8117f.chunk.js",
+    "static/js/2.70a8117f.chunk.js.map": "/midia-magazine/static/js/2.70a8117f.chunk.js.map",
+    "index.html": "/midia-magazine/index.html",
+    "precache-manifest.2e84c3ebb386272829da2ae7bedf70ff.js": "/midia-magazine/precache-manifest.2e84c3ebb386272829da2ae7bedf70ff.js",
+    "service-worker.js": "/midia-magazine/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/midia-magazine/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.70a8117f.chunk.js.LICENSE.txt": "/midia-magazine/static/js/2.70a8117f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/midia-magazine/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e300bcc.js",
+    "static/js/2.70a8117f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.23e9eb85.chunk.js"
+  ]
+}
