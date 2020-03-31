@@ -42,9 +42,23 @@ export default function Home() {
                     </div>
                 </div>
 
+                <div className="card">
+                    <h3>Popular Post</h3>
+                </div>
+
+                <div className="card">
+                    <h3>Follow Me</h3>
+                    <p>Some text..</p>
+                </div>
+
             </selection>
 
-        </div>
+
+                    <div className="footer">
+                        <h2>Footer</h2>
+                    </div>
+
+                </div>
 
 
     );
