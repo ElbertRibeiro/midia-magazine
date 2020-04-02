@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './global.css';
 
 import Home from './pages/Home';
-import * as serviceWorker from './serviceWorker';
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -13,4 +13,3 @@ ReactDOM.render(
 );
 
 
-serviceWorker.unregister();
