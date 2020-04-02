@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/midia-magazine/static/css/main.a653c2b8.chunk.css",
-    "main.js": "/midia-magazine/static/js/main.1ea256da.chunk.js",
-    "main.js.map": "/midia-magazine/static/js/main.1ea256da.chunk.js.map",
-    "runtime-main.js": "/midia-magazine/static/js/runtime-main.5e300bcc.js",
-    "runtime-main.js.map": "/midia-magazine/static/js/runtime-main.5e300bcc.js.map",
-    "static/js/2.70a8117f.chunk.js": "/midia-magazine/static/js/2.70a8117f.chunk.js",
-    "static/js/2.70a8117f.chunk.js.map": "/midia-magazine/static/js/2.70a8117f.chunk.js.map",
+    "main.js": "/midia-magazine/static/js/main.02902239.chunk.js",
+    "main.js.map": "/midia-magazine/static/js/main.02902239.chunk.js.map",
+    "runtime-main.js": "/midia-magazine/static/js/runtime-main.a481e331.js",
+    "runtime-main.js.map": "/midia-magazine/static/js/runtime-main.a481e331.js.map",
+    "static/js/2.15e40fb3.chunk.js": "/midia-magazine/static/js/2.15e40fb3.chunk.js",
+    "static/js/2.15e40fb3.chunk.js.map": "/midia-magazine/static/js/2.15e40fb3.chunk.js.map",
     "index.html": "/midia-magazine/index.html",
-    "precache-manifest.fb5d5b593ac98c80e9285f1d0b975193.js": "/midia-magazine/precache-manifest.fb5d5b593ac98c80e9285f1d0b975193.js",
+    "precache-manifest.f8dd8920048c2834bd57b9a7b8e44988.js": "/midia-magazine/precache-manifest.f8dd8920048c2834bd57b9a7b8e44988.js",
     "service-worker.js": "/midia-magazine/service-worker.js",
     "static/css/main.a653c2b8.chunk.css.map": "/midia-magazine/static/css/main.a653c2b8.chunk.css.map",
-    "static/js/2.70a8117f.chunk.js.LICENSE.txt": "/midia-magazine/static/js/2.70a8117f.chunk.js.LICENSE.txt",
+    "static/js/2.15e40fb3.chunk.js.LICENSE.txt": "/midia-magazine/static/js/2.15e40fb3.chunk.js.LICENSE.txt",
     "static/media/image-post.png": "/midia-magazine/static/media/image-post.cacd97fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e300bcc.js",
-    "static/js/2.70a8117f.chunk.js",
+    "static/js/runtime-main.a481e331.js",
+    "static/js/2.15e40fb3.chunk.js",
     "static/css/main.a653c2b8.chunk.css",
-    "static/js/main.1ea256da.chunk.js"
+    "static/js/main.02902239.chunk.js"
   ]
 }
