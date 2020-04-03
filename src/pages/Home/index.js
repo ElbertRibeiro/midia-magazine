@@ -4,7 +4,8 @@
 import React from 'react';
 import './style.css';
 import PostImg from './../../assets/image-post.png';
-
+import { IoLogoWhatsapp } from 'react-icons/io';
+import { FaFacebook } from 'react-icons/fa';
 export default function Home() {
     return (
 
@@ -47,7 +48,16 @@ export default function Home() {
 
                     <div className="card">
                         <h3>Follow Me</h3>
-                        <p>Some text..</p>
+                        <p>
+                            <a href="https://www.facebook.com/eriton.ribeiro.5">
+                                <FaFacebook />
+                            </a>
+                            <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5591980885252">
+                                <IoLogoWhatsapp />
+
+                            </a>
+                            
+                        </p>
                     </div>
 
                 </div>
