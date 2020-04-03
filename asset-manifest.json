@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/midia-magazine/static/css/main.5d58f081.chunk.css",
-    "main.js": "/midia-magazine/static/js/main.05e5252e.chunk.js",
-    "main.js.map": "/midia-magazine/static/js/main.05e5252e.chunk.js.map",
+    "main.css": "/midia-magazine/static/css/main.42a2bffd.chunk.css",
+    "main.js": "/midia-magazine/static/js/main.e6c70d68.chunk.js",
+    "main.js.map": "/midia-magazine/static/js/main.e6c70d68.chunk.js.map",
     "runtime-main.js": "/midia-magazine/static/js/runtime-main.a481e331.js",
     "runtime-main.js.map": "/midia-magazine/static/js/runtime-main.a481e331.js.map",
     "static/js/2.7bea712c.chunk.js": "/midia-magazine/static/js/2.7bea712c.chunk.js",
     "static/js/2.7bea712c.chunk.js.map": "/midia-magazine/static/js/2.7bea712c.chunk.js.map",
     "index.html": "/midia-magazine/index.html",
-    "precache-manifest.e984b837fde83d361d21b6d267a62c63.js": "/midia-magazine/precache-manifest.e984b837fde83d361d21b6d267a62c63.js",
+    "precache-manifest.cda298c0f67de2f85c08bd9000d2319b.js": "/midia-magazine/precache-manifest.cda298c0f67de2f85c08bd9000d2319b.js",
     "service-worker.js": "/midia-magazine/service-worker.js",
-    "static/css/main.5d58f081.chunk.css.map": "/midia-magazine/static/css/main.5d58f081.chunk.css.map",
+    "static/css/main.42a2bffd.chunk.css.map": "/midia-magazine/static/css/main.42a2bffd.chunk.css.map",
     "static/js/2.7bea712c.chunk.js.LICENSE.txt": "/midia-magazine/static/js/2.7bea712c.chunk.js.LICENSE.txt",
     "static/media/image-post.png": "/midia-magazine/static/media/image-post.cacd97fa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a481e331.js",
     "static/js/2.7bea712c.chunk.js",
-    "static/css/main.5d58f081.chunk.css",
-    "static/js/main.05e5252e.chunk.js"
+    "static/css/main.42a2bffd.chunk.css",
+    "static/js/main.e6c70d68.chunk.js"
   ]
 }

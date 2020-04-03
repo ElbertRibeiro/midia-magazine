@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/midia-magazine/precache-manifest.e984b837fde83d361d21b6d267a62c63.js"
+  "/midia-magazine/precache-manifest.cda298c0f67de2f85c08bd9000d2319b.js"
 );
 
 self.addEventListener('message', (event) => {
