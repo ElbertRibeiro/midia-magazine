@@ -58,3 +58,10 @@ body {
     }
   }
 
+.icon {
+  padding: 10px;
+}
+
+.icon-social {
+  width: 30px;
+}

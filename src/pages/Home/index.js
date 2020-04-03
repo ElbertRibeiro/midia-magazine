@@ -49,11 +49,11 @@ export default function Home() {
                     <div className="card">
                         <h3>Follow Me</h3>
                         <p>
-                            <a href="https://www.facebook.com/eriton.ribeiro.5">
-                                <FaFacebook />
+                            <a className="icon" href="https://www.facebook.com/eriton.ribeiro.5">
+                                <FaFacebook className="icon-social" />
                             </a>
-                            <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5591980885252">
-                                <IoLogoWhatsapp />
+                            <a className="icon" href="https://api.whatsapp.com/send?1=pt_BR&phone=5591980885252">
+                                <IoLogoWhatsapp className="icon-social" />
 
                             </a>
                             
