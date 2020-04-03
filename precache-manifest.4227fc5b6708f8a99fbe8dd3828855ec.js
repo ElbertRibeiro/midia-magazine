@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a38542dddd7de4bfbf951605712cdc47",
+    "revision": "d3ec9d051270bcba1a0ab5bdbb99e1fe",
     "url": "/midia-magazine/index.html"
   },
   {
-    "revision": "dd3f1ed92d9181edd502",
-    "url": "/midia-magazine/static/css/main.42a2bffd.chunk.css"
+    "revision": "06b8e32a152a8b2d4d87",
+    "url": "/midia-magazine/static/css/main.dc4bdeaf.chunk.css"
   },
   {
     "revision": "cbbdcd54ed7b74b9b97a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/midia-magazine/static/js/2.7bea712c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd3f1ed92d9181edd502",
+    "revision": "06b8e32a152a8b2d4d87",
     "url": "/midia-magazine/static/js/main.e6c70d68.chunk.js"
   },
   {
