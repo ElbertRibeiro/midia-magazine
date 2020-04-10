@@ -56,7 +56,7 @@ export default function Home() {
                                 <IoLogoWhatsapp className="icon-social" />
 
                             </a>
-                            
+
                         </p>
                     </div>
 
@@ -67,7 +67,26 @@ export default function Home() {
 
 
             <div className="footer">
-                <h2>Footer</h2>
+                <div id="after_submit"></div>
+                <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+                    <div class="row">
+                        <label className="required" for="name">Your name:</label><br />
+                        <input id="name" type="text" size="30" /><br />
+                        <span id="name_validation" class="error_message"></span>
+                    </div>
+                    <div class="row">
+                        <label className="required" for="email">Your email:</label><br />
+                        <input id="email" name="email" type="text" size="30" /><br />
+                        <span id="email_validation" className="error_message"></span>
+                    </div>
+                    <div class="row">
+                        <label className="required" for="message">Your message:</label><br />
+                        <textarea id="message" name="message" rows="7" cols="30"></textarea><br />
+                        <span id="message_validation" className="error_message"></span>
+                    </div>
+
+                    <input id="submit_button" type="submit" value="Send email" />
+                </form>
             </div>
 
         </div>
