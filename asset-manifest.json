@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc4bdeaf.chunk.css",
-    "main.js": "/static/js/main.1571134c.chunk.js",
-    "main.js.map": "/static/js/main.1571134c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9bf1457.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9bf1457.js.map",
-    "static/js/2.7bea712c.chunk.js": "/static/js/2.7bea712c.chunk.js",
-    "static/js/2.7bea712c.chunk.js.map": "/static/js/2.7bea712c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ccba101ff45813f8fdd8681e3e17b902.js": "/precache-manifest.ccba101ff45813f8fdd8681e3e17b902.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dc4bdeaf.chunk.css.map": "/static/css/main.dc4bdeaf.chunk.css.map",
-    "static/js/2.7bea712c.chunk.js.LICENSE.txt": "/static/js/2.7bea712c.chunk.js.LICENSE.txt",
-    "static/media/image-post.png": "/static/media/image-post.cacd97fa.png"
+    "main.css": "/midia-magazine/static/css/main.dc4bdeaf.chunk.css",
+    "main.js": "/midia-magazine/static/js/main.1571134c.chunk.js",
+    "main.js.map": "/midia-magazine/static/js/main.1571134c.chunk.js.map",
+    "runtime-main.js": "/midia-magazine/static/js/runtime-main.a481e331.js",
+    "runtime-main.js.map": "/midia-magazine/static/js/runtime-main.a481e331.js.map",
+    "static/js/2.7bea712c.chunk.js": "/midia-magazine/static/js/2.7bea712c.chunk.js",
+    "static/js/2.7bea712c.chunk.js.map": "/midia-magazine/static/js/2.7bea712c.chunk.js.map",
+    "index.html": "/midia-magazine/index.html",
+    "precache-manifest.a1d78ab03fe64e427aa75232a1f7028b.js": "/midia-magazine/precache-manifest.a1d78ab03fe64e427aa75232a1f7028b.js",
+    "service-worker.js": "/midia-magazine/service-worker.js",
+    "static/css/main.dc4bdeaf.chunk.css.map": "/midia-magazine/static/css/main.dc4bdeaf.chunk.css.map",
+    "static/js/2.7bea712c.chunk.js.LICENSE.txt": "/midia-magazine/static/js/2.7bea712c.chunk.js.LICENSE.txt",
+    "static/media/image-post.png": "/midia-magazine/static/media/image-post.cacd97fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9bf1457.js",
+    "static/js/runtime-main.a481e331.js",
     "static/js/2.7bea712c.chunk.js",
     "static/css/main.dc4bdeaf.chunk.css",
     "static/js/main.1571134c.chunk.js"
